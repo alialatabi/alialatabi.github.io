@@ -39,9 +39,9 @@ tbody:last-child tr:last-child td:first-child {
   border-radius: 0 0 0 4px;
 }
 
-@media (max-width: 350px) {
+@media (max-width: 300px) {
   body {
-    background-color: #50de8b;
+    background-color: #8e50de;
   }
   td {
     font-size: 19px;
